@@ -15,6 +15,8 @@ Hi, I'm Akinrinola Muiz
 📫 Facebook Twitter LinkedIn Instagram
 
 ⚡ Fun fact: Aside Coding, I enjoy making creative designs and illustrations with Coreldraw 💻 , music and gaming 💻
+
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
